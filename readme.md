@@ -1,5 +1,10 @@
 # Kollektivavtalsarkivet 2014
 
+## Postnord
+
+* https://www.seko.se/branscher/post/seko-posten/kollektivavtal/semester-for-nattarbetare/
+* https://www.seko.se/siteassets/forhandlings-branschorganisationer/seko-posten/pdf-er/overenskommelse-semester-for-nattarbetande.pdf
+
 ## Väg- och Banavtalet
 
 * https://www.seko.se/avtal/sekos-avtalsomraden/vag-och-ban/aktuella-avtal/
